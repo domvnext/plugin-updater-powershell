@@ -1,0 +1,42 @@
+Command Agent Launcher
+Active Directory
+Ansible
+Authentication Tokens API
+Bitbucket
+Bitbucket Branch Source
+Bitbucket Push and Pull Request
+checkmarx
+checkmarx-ast-scanner
+Checks API
+Code Coverage
+Conditional BuildStep
+Config File Provider
+Credentials
+Credentials Binding
+ECharts API
+Email Extension
+Folders
+Generic Webhook Trigger
+Git
+Git client
+Handy Uri Templates 2.x API
+HTML Publisher
+Jackson 2 API
+Matrix Authorization Strategy
+Matrix Project
+Office 365 Connector / Power Automate workflows
+Pipeline
+Pipeline Graph Analysis
+Pipeline: Basic Steps
+Pipeline: Declarative
+Pipeline: Groovy
+Pipeline: Multibranch
+Pipeline: SCM Step
+Plugin Utilities API
+Remote Jenkinsfile Provider
+Role-based Authorization Strategy
+Script Security
+SSH Build Agents
+SSH Credentials
+Timestamper
+Workspace Cleanup
